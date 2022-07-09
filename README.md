@@ -1,5 +1,5 @@
-Algoritmo IP
+**Algoritmo  de Identificac  ALG-IP
 
-Descrpción:
+**Descrpció
 
 Algoritmo de identificación de parámetros de modelos epidemiológicos de Markov utilizando el programa de cómputo Python.
