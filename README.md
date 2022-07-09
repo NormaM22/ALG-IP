@@ -1,2 +1,3 @@
-# Seminario_de_Investigacion
-Proyecto de investigacion
+Algoritmo IP
+Descrpción:
+Algoritmo de identificación de parámetros de modelos epidemiológicos de Markov utilizando el programa de cómputo Python.
