@@ -1,12 +1,10 @@
-**ALG-IP:**
-
-**Algoritmo_ALG_IP**
+**1. Algoritmo_ALG_IP**
 
 **Descripción:**
 
 Algoritmo de identificación de parámetros utilizando el programa de cómputo Python.
 
-**Codigo_ALG-IP2**
+**2. Codigo_ALG-IP2**
 
 **Descripción:**
 
