@@ -2,10 +2,10 @@
 
 **Descripción:**
 
-Algoritmo de identificación de parámetros utilizando el programa de cómputo Python.
+Algoritmo de identificación de parámetros utilizando Python.
 
 **2. Codigo_ALG-IP2**
 
 **Descripción:**
 
-Codigo en Octave para identificaci\'on de par\'ametros mediante la funci\'on sqp.
+Codigo en Octave para identificación de parámetros mediante la función sqp.
