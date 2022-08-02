@@ -20,7 +20,6 @@ for i = 2:N
 endfor
 
 R=0;
-P=0;
 vec = [1 5 9 13];
 for i = 1:4
   for j = 2:N
